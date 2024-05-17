@@ -8,4 +8,4 @@
 - ⚡ Fun fact: ...
 
 
-[![xinyan30425's GitHub | Languages Over Time](https://stats.quine.sh/xinyan30425/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=xinyan30425)
+[![xinyan30425's GitHub | Stats](https://stats.quine.sh/xinyan30425/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=xinyan30425)
