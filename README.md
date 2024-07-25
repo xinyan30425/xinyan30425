@@ -64,4 +64,7 @@
 - Clustering
 - Classification
 - Machine Learning
+- Deep Learning
+- Image Processing
+- Computer Vision
 
