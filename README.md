@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a Demographic and Geographic Analytics Platform Development for Community-Level Public Health Insight
 - 🌱 I’m currently learning Computer Systems and Cloud Infrastructure
 - 💬 Ask me about Anything
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have hiked to the top of Mount Washington, which involved an elevation gain of 3,261 feet.
 
 
 [![xinyan30425's GitHub | Stats](https://stats.quine.sh/xinyan30425/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=xinyan30425)
