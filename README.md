@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Demographic and Geographic Analytics Platform Development for Community-Level Public Health Insight
-- 🌱 I’m currently learning Computer Systems and Cloud Infrastructure
+- I am a software developer and data engineer with a strong background in full-stack application development, data science, and data engineering. With experience in both frontend and backend development, I have built and deployed scalable web applications using modern frameworks like React, Node.js, and Golang, and have developed robust RESTful APIs to handle complex data processing tasks. My technical expertise extends to managing data pipelines, automating workflows, and optimizing performance using tools such as Apache Spark, Airflow, and Kubernetes. I am proficient in multiple programming languages, including Python, JavaScript, Golang, and SQL, and have experience with databases like MySQL and MongoDB.
+- I am well-prepared to take on a software development or data engineering role where I can leverage my skills and contribute effectively to cross-functional teams.
 - 💬 Ask me about Anything
 - ⚡ Fun fact: I have hiked to the top of Mount Washington, which involved an elevation gain of 3,261 feet.
 
